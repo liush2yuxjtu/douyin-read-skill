@@ -1,0 +1,13 @@
+{
+  "name": "douyin-read-skill",
+  "description": "Agent Skill to read Douyin (抖音) video pages",
+  "owner": { "name": "liush2yuxjtu" },
+  "plugins": [
+    {
+      "name": "douyin-read-skill",
+      "source": "./",
+      "description": "douyin-read: read a Douyin video's caption, author, engagement, chapters and on-screen text (read-only)",
+      "version": "0.1.0"
+    }
+  ]
+}
