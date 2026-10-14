@@ -1,0 +1,8 @@
+{
+  "name": "douyin-read-skill",
+  "description": "Read a Douyin (抖音) video link: caption, author, hashtags, engagement, chapters, on-screen text, login status",
+  "version": "0.1.0",
+  "author": { "name": "liush2yuxjtu" },
+  "repository": "https://github.com/liush2yuxjtu/douyin-read-skill",
+  "license": "MIT"
+}
